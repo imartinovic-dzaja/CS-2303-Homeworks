@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1579708894 source:c:\users\ivan\desktop\cs courses\cs 2303\homeworks\hw1 - imartinovic\20200117starthw1\2020hw1starter\src\2020hw1starter.c
+	<stdio.h>
+	<stdlib.h>
+
+1579708894 source:c:\users\ivan\desktop\cs courses\cs 2303\homeworks\hw1 - imartinovic\20200117starthw1\2020hw1starter\src\production.c
+	"production.h"
+
+1579708894 c:\users\ivan\desktop\cs courses\cs 2303\homeworks\hw1 - imartinovic\20200117starthw1\2020hw1starter\src\production.h
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+	<stdlib.h>
+

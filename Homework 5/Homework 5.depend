@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1514140574 source:c:\users\ivan\desktop\cs courses\cs 2303\homeworks\homework 5\main.cpp
+	<iostream>
+
+1582773629 source:c:\users\ivan\desktop\cs courses\cs 2303\homeworks\homework 5\src\linkedlist.cpp
+	"LinkedList.h"
+	<stdbool.h>
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+
+1583093199 c:\users\ivan\desktop\cs courses\cs 2303\homeworks\homework 5\src\linkedlist.h
+	"LinkedList.h"
+	<stdbool.h>
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+	<cstdlib>
+	<time.h>
+
+1583094290 source:c:\users\ivan\desktop\cs courses\cs 2303\homeworks\homework 5\src\2020hw4starter.cpp
+	<iostream>
+	"Tests.h"
+	"Production.h"
+	<cstdlib>
+	<time.h>
+
+1583093199 c:\users\ivan\desktop\cs courses\cs 2303\homeworks\homework 5\src\tests.h
+	"LinkedList.h"
+	"Production.h"
+	"Pawn.h"
+	"Board.h"
+
+1583094290 c:\users\ivan\desktop\cs courses\cs 2303\homeworks\homework 5\src\production.h
+	"LinkedList.h"
+	<stdlib.h>
+	<stdbool.h>
+	<iostream>
+	<fstream>
+	<string>
+	"Board.h"
+
+1583096351 source:c:\users\ivan\desktop\cs courses\cs 2303\homeworks\homework 5\src\tests.cpp
+	"Tests.h"
+	<stdbool.h>
+	<iostream>
+
+1583094290 source:c:\users\ivan\desktop\cs courses\cs 2303\homeworks\homework 5\src\production.cpp
+	"Production.h"
+
+1583094685 c:\users\ivan\desktop\cs courses\cs 2303\homeworks\homework 5\src\pawn.h
+	"LinkedList.h"
+
+1583094676 source:c:\users\ivan\desktop\cs courses\cs 2303\homeworks\homework 5\src\pawn.cpp
+	"Pawn.h"
+	"Board.h"
+
+1583094580 c:\users\ivan\desktop\cs courses\cs 2303\homeworks\homework 5\src\board.h
+	"LinkedList.h"
+	"Pawn.h"
+
+1583097034 source:c:\users\ivan\desktop\cs courses\cs 2303\homeworks\homework 5\src\board.cpp
+	"Board.h"
+
+1583094290 source:c:\users\ivan\desktop\cs courses\cs 2303\homeworks\homework 5\src\2020hw5starter.cpp
+	<iostream>
+	"Tests.h"
+	"Production.h"
+	<cstdlib>
+	<time.h>
+

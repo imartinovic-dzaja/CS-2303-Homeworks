@@ -1,0 +1,79 @@
+# depslib dependency file v1.0
+1514140574 source:c:\users\ivan\desktop\cs courses\cs 2303\homeworks\homework 4\main.cpp
+	<iostream>
+
+1581375272 source:c:\users\ivan\desktop\cs courses\cs 2303\homeworks\homework 4\src\adjmat.c
+	"AdjMat.h"
+	<stdio.h>
+
+1582422831 c:\users\ivan\desktop\cs courses\cs 2303\homeworks\homework 4\src\adjmat.h
+
+1581393935 source:c:\users\ivan\desktop\cs courses\cs 2303\homeworks\homework 4\src\linkedlist.c
+	"LinkedList.h"
+	<stdbool.h>
+	<stdlib.h>
+	<stdio.h>
+
+1582433894 c:\users\ivan\desktop\cs courses\cs 2303\homeworks\homework 4\src\linkedlist.h
+	"Room.h"
+
+1582422991 c:\users\ivan\desktop\cs courses\cs 2303\homeworks\homework 4\src\room.h
+
+1581641772 source:c:\users\ivan\desktop\cs courses\cs 2303\homeworks\homework 4\src\production.c
+	"production.h"
+	"AdjMat.h"
+	"Room.h"
+	"LinkedList.h"
+
+1582437023 c:\users\ivan\desktop\cs courses\cs 2303\homeworks\homework 4\src\production.h
+	"Room.h"
+	"AdjMat.h"
+	"LinkedList.h"
+	<stdlib.h>
+	<stdbool.h>
+	<iostream>
+	<fstream>
+	<string>
+
+1582437106 source:c:\users\ivan\desktop\cs courses\cs 2303\homeworks\homework 4\src\production.cpp
+	"Production.h"
+
+1581209470 source:c:\users\ivan\desktop\cs courses\cs 2303\homeworks\homework 4\src\room.c
+	"Room.h"
+	<stdlib.h>
+	<stdio.h>
+
+1581392928 source:c:\users\ivan\desktop\cs courses\cs 2303\homeworks\homework 4\src\tests.c
+	"tests.h"
+
+1582434317 c:\users\ivan\desktop\cs courses\cs 2303\homeworks\homework 4\src\tests.h
+	"Room.h"
+	"AdjMat.h"
+	"LinkedList.h"
+	"Production.h"
+
+1582434502 source:c:\users\ivan\desktop\cs courses\cs 2303\homeworks\homework 4\src\tests.cpp
+	"Tests.h"
+	<stdbool.h>
+	<iostream>
+
+1582423325 source:c:\users\ivan\desktop\cs courses\cs 2303\homeworks\homework 4\src\adjmat.cpp
+	"AdjMat.h"
+	<stdio.h>
+	<iostream>
+
+1582434088 source:c:\users\ivan\desktop\cs courses\cs 2303\homeworks\homework 4\src\linkedlist.cpp
+	"LinkedList.h"
+	<stdbool.h>
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+
+1581554226 source:c:\users\ivan\desktop\cs courses\cs 2303\homeworks\homework 4\src\2020hw4starter.cpp
+	<iostream>
+	"Tests.h"
+	"Production.h"
+
+1582423010 source:c:\users\ivan\desktop\cs courses\cs 2303\homeworks\homework 4\src\room.cpp
+	"Room.h"
+

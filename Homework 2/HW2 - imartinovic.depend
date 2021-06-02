@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1514140574 source:c:\users\ivan\desktop\cs courses\cs 2303\homeworks\hw2 - imartinovic\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1580433017 source:c:\users\ivan\desktop\cs courses\cs 2303\homeworks\hw2 - imartinovic\src\2020hw2starter.c
+	<stdio.h>
+	<stdlib.h>
+	"tests.h"
+	"production.h"
+	"TMSName.h"
+
+1580694655 c:\users\ivan\desktop\cs courses\cs 2303\homeworks\hw2 - imartinovic\src\tests.h
+	"tests.h"
+	"marker.h"
+	"space.h"
+	"production.h"
+	"LinkedList.h"
+
+1580608152 c:\users\ivan\desktop\cs courses\cs 2303\homeworks\hw2 - imartinovic\src\production.h
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+	<stdlib.h>
+	"space.h"
+	<time.h>
+	<stdlib.h>
+	"LinkedList.h"
+
+1580433017 c:\users\ivan\desktop\cs courses\cs 2303\homeworks\hw2 - imartinovic\src\tmsname.h
+
+1580694353 source:c:\users\ivan\desktop\cs courses\cs 2303\homeworks\hw2 - imartinovic\src\linkedlist.c
+	"LinkedList.h"
+	<stdlib.h>
+	<stdio.h>
+
+1580694448 c:\users\ivan\desktop\cs courses\cs 2303\homeworks\hw2 - imartinovic\src\linkedlist.h
+	<stdbool.h>
+	"marker.h"
+
+1580609091 c:\users\ivan\desktop\cs courses\cs 2303\homeworks\hw2 - imartinovic\src\marker.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"LinkedList.h"
+	<stdbool.h>
+
+1580744261 source:c:\users\ivan\desktop\cs courses\cs 2303\homeworks\hw2 - imartinovic\src\marker.c
+	"marker.h"
+
+1580743895 source:c:\users\ivan\desktop\cs courses\cs 2303\homeworks\hw2 - imartinovic\src\production.c
+	"production.h"
+
+1580744245 source:c:\users\ivan\desktop\cs courses\cs 2303\homeworks\hw2 - imartinovic\src\space.c
+	"space.h"
+
+1580743701 c:\users\ivan\desktop\cs courses\cs 2303\homeworks\hw2 - imartinovic\src\space.h
+	<stdio.h>
+	<stdbool.h>
+
+1580744428 source:c:\users\ivan\desktop\cs courses\cs 2303\homeworks\hw2 - imartinovic\src\tests.c
+	"tests.h"
+

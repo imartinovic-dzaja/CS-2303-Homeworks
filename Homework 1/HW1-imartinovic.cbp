@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="HW1-imartinovic" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/HW1 - imartinovic" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="C:/Users/Ivan/Desktop/CS Courses/CS 2303/Homeworks/HW1 - imartinovic/20200117startHW1" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/HW1 - imartinovic" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+			<Target title="Archive">
+				<Option output="HW1 - imartinovic" prefix_auto="1" extension_auto="1" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add directory="C:/Users/Ivan/Desktop/CS Courses/CS 2303/Homeworks/HW1 - imartinovic/20200117startHW1" />
+				</Compiler>
+				<ExtraCommands>
+					<Add after="zip -j9 $(PROJECT_NAME).zip bin obj header_file.png header_includec_in_HW1.png header_included_in_tests.png 20200117startHW1 Ivan-Martinovic.h  $(PROJECT_NAME).cbp" />
+				</ExtraCommands>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add directory="../HW1 - imartinovic" />
+		</Compiler>
+		<Unit filename="20200117startHW1/2020HW1starter/src/2020HW1starter.c">
+			<Option compilerVar="CC" />
+			<Option target="Debug" />
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="20200117startHW1/2020HW1starter/src/HW1.c">
+			<Option compilerVar="CC" />
+			<Option target="Debug" />
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="20200117startHW1/2020HW1starter/src/TMSName.h">
+			<Option target="Debug" />
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="20200117startHW1/2020HW1starter/src/production.c">
+			<Option compilerVar="CC" />
+			<Option target="Debug" />
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="20200117startHW1/2020HW1starter/src/production.h">
+			<Option target="Debug" />
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="20200117startHW1/2020HW1starter/src/tests.c">
+			<Option compilerVar="CC" />
+			<Option target="Debug" />
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="20200117startHW1/2020HW1starter/src/tests.h">
+			<Option target="Debug" />
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="Ivan-Martinovic.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="header_file.png">
+			<Option target="Debug" />
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="header_includec_in_HW1.png">
+			<Option target="Debug" />
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="header_included_in_tests.png">
+			<Option target="Debug" />
+			<Option target="Release" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,102 @@
+# depslib dependency file v1.0
+1580946814 source:c:\users\ivan\desktop\cs courses\cs 2303\homework 3\src\2020hw3starter.c
+	<stdio.h>
+	<stdlib.h>
+	"tests.h"
+	"production.h"
+	"TMSName.h"
+
+1580946814 c:\users\ivan\desktop\cs courses\cs 2303\homework 3\src\tests.h
+	"production.h"
+	"AdjMat.h"
+
+1580946814 c:\users\ivan\desktop\cs courses\cs 2303\homework 3\src\production.h
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+	<stdlib.h>
+	"AdjMat.h"
+	"Room.h"
+
+1580946814 c:\users\ivan\desktop\cs courses\cs 2303\homework 3\src\adjmat.h
+	<stdbool.h>
+
+1580946814 c:\users\ivan\desktop\cs courses\cs 2303\homework 3\src\room.h
+	<stdbool.h>
+
+1580946814 c:\users\ivan\desktop\cs courses\cs 2303\homework 3\src\tmsname.h
+
+1580946814 source:c:\users\ivan\desktop\cs courses\cs 2303\homework 3\src\adjmat.c
+	"AdjMat.h"
+	<stdio.h>
+
+1580946814 source:c:\users\ivan\desktop\cs courses\cs 2303\homework 3\src\linkedlist.c
+	"LinkedList.h"
+	<stdlib.h>
+	<stdio.h>
+
+1580946814 c:\users\ivan\desktop\cs courses\cs 2303\homework 3\src\linkedlist.h
+	"Room.h"
+
+1580946966 source:c:\users\ivan\desktop\cs courses\cs 2303\homework 3\src\production.c
+	"production.h"
+	"AdjMat.h"
+	"Room.h"
+	"LinkedList.h"
+
+1581209347 source:c:\users\ivan\desktop\cs courses\cs 2303\homeworks\homework 3\src\2020hw3starter.c
+	<stdio.h>
+	<stdlib.h>
+	"tests.h"
+	"production.h"
+
+1581218569 c:\users\ivan\desktop\cs courses\cs 2303\homeworks\homework 3\src\tests.h
+	"Room.h"
+	"LinkedList.h"
+	"AdjMat.h"
+	"production.h"
+
+1581214579 c:\users\ivan\desktop\cs courses\cs 2303\homeworks\homework 3\src\production.h
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+	<stdlib.h>
+	"AdjMat.h"
+	"Room.h"
+	"LinkedList.h"
+
+1581013942 c:\users\ivan\desktop\cs courses\cs 2303\homeworks\homework 3\src\adjmat.h
+	<stdbool.h>
+
+1581214556 c:\users\ivan\desktop\cs courses\cs 2303\homeworks\homework 3\src\room.h
+	<stdbool.h>
+
+1580946814 c:\users\ivan\desktop\cs courses\cs 2303\homeworks\homework 3\src\tmsname.h
+
+1581375272 source:c:\users\ivan\desktop\cs courses\cs 2303\homeworks\homework 3\src\adjmat.c
+	"AdjMat.h"
+	<stdio.h>
+
+1581393935 source:c:\users\ivan\desktop\cs courses\cs 2303\homeworks\homework 3\src\linkedlist.c
+	"LinkedList.h"
+	<stdbool.h>
+	<stdlib.h>
+	<stdio.h>
+
+1581382575 c:\users\ivan\desktop\cs courses\cs 2303\homeworks\homework 3\src\linkedlist.h
+	"Room.h"
+
+1581393798 source:c:\users\ivan\desktop\cs courses\cs 2303\homeworks\homework 3\src\production.c
+	"production.h"
+	"AdjMat.h"
+	"Room.h"
+	"LinkedList.h"
+
+1581392928 source:c:\users\ivan\desktop\cs courses\cs 2303\homeworks\homework 3\src\tests.c
+	"tests.h"
+
+1581209470 source:c:\users\ivan\desktop\cs courses\cs 2303\homeworks\homework 3\src\room.c
+	"Room.h"
+	<stdlib.h>
+	<stdio.h>
+

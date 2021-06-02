@@ -1,0 +1,66 @@
+# depslib dependency file v1.0
+1583275522 source:c:\users\ivan\desktop\cs courses\cs 2303\homeworks\homework 6\src\production.cpp
+	"Production.h"
+	"game.h"
+
+1583202716 c:\users\ivan\desktop\cs courses\cs 2303\homeworks\homework 6\src\production.h
+	<stdlib.h>
+	<stdbool.h>
+	<iostream>
+	<fstream>
+	<string>
+
+1583269721 source:c:\users\ivan\desktop\cs courses\cs 2303\homeworks\homework 6\src\2020hw6starter.cpp
+	<iostream>
+	"Tests.h"
+	"Production.h"
+	<time.h>
+
+1583339570 c:\users\ivan\desktop\cs courses\cs 2303\homeworks\homework 6\src\tests.h
+	"Production.h"
+	"Watercraft.h"
+	"stats.h"
+	"board.h"
+	"game.h"
+
+1583373572 source:c:\users\ivan\desktop\cs courses\cs 2303\homeworks\homework 6\src\tests.cpp
+	"Tests.h"
+	<stdbool.h>
+	<iostream>
+
+1583373391 source:c:\users\ivan\desktop\cs courses\cs 2303\homeworks\homework 6\src\watercraft.cpp
+	"Watercraft.h"
+
+1583266730 c:\users\ivan\desktop\cs courses\cs 2303\homeworks\homework 6\src\watercraft.h
+	<string.h>
+
+1583373394 source:c:\users\ivan\desktop\cs courses\cs 2303\homeworks\homework 6\src\stats.cpp
+	"stats.h"
+
+1583274899 c:\users\ivan\desktop\cs courses\cs 2303\homeworks\homework 6\src\stats.h
+	<iostream>
+
+1583373391 source:c:\users\ivan\desktop\cs courses\cs 2303\homeworks\homework 6\src\cell.cpp
+	"cell.h"
+
+1583200465 c:\users\ivan\desktop\cs courses\cs 2303\homeworks\homework 6\src\cell.h
+
+1583339738 source:c:\users\ivan\desktop\cs courses\cs 2303\homeworks\homework 6\src\board.cpp
+	"board.h"
+
+1583276712 c:\users\ivan\desktop\cs courses\cs 2303\homeworks\homework 6\src\board.h
+	"stats.h"
+	"cell.h"
+	"Watercraft.h"
+	<stdlib.h>
+	<conio.h>
+	<fstream>
+
+1583372177 source:c:\users\ivan\desktop\cs courses\cs 2303\homeworks\homework 6\src\game.cpp
+	"game.h"
+
+1583287573 c:\users\ivan\desktop\cs courses\cs 2303\homeworks\homework 6\src\game.h
+	"Watercraft.h"
+	"cell.h"
+	"board.h"
+

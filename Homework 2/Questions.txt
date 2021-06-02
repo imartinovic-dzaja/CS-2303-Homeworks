@@ -1,0 +1,5 @@
+Ask about your sequence diagram (main)
+For example there is an initialization of screen function (hence do we have to write our own? also for placing marker)
+Should we use the test suite discussed in the book or do we use the same method presented in the starter files.
+When does wandering stop?
+Multi-dimensional arrays...
